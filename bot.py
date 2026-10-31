@@ -5,7 +5,7 @@ BOT_TOKEN = "9104837985:AAHMGE8n5L7-WmaVf7L9Wg24VSg7o1Vrpv4"
 CHAT_ID = "5144440884"
 
 # هون حط سعرك اللي بدك تبيع فيه
-MY_SELL_PRICE = 45000  
+MY_SELL_PRICE = 42000  
 PLAYER_ID = "25537"  
 
 def send(text):
